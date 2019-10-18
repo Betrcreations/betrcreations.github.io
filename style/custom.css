@@ -53,8 +53,20 @@ h1 {
     font-weight: 700;
 }
 
-h3 {
+h2 {
     color: white;
     font-size: 18px;
     font-weight: 500;
+}
+
+h3 {
+    color: white;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+h4 {
+    color: white;
+    font-size: 13px;
+    font-weight: 400;
 }
